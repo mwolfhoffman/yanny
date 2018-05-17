@@ -1,6 +1,9 @@
 # YannyJS
 
-Was it Yanny or as it Laurel? The only way to really be certain is with a lightweight fast node module. 
+Was it 'yanny' or was it 'laurel'? 
+
+The only way to really be certain is with a lightweight fast node module.
+ 
 
 ### Installation
 ```npm install --save-dev yannyjs```
